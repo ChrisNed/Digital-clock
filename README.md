@@ -1,2 +1,2 @@
 # Digital-clock
-this is a digital clock created using tkinter 
+this is a digital clock created using tkinter module.
